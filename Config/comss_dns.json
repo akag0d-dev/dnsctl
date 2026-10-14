@@ -1,0 +1,10 @@
+{
+  "name": "Comss DNS",
+  "description": "Comss.one DNS. DoH: https://dns.comss.one/dns-query",
+  "doh": "https://dns.comss.one/dns-query",
+  "ipv4": [
+    "83.220.169.155",
+    "212.109.195.93"
+  ],
+  "ipv6": []
+}
